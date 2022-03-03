@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="SWEA">
+      <UniqueIdentifier>{96d76885-7570-46a7-8c2f-bda94bc1be39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SWEA\D2">
+      <UniqueIdentifier>{8610220f-1065-4927-8416-a3cdae997028}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="초심자의 회문 검사_1989.cpp">
+      <Filter>SWEA\D2</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
