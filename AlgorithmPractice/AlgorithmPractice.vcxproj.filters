@@ -27,5 +27,8 @@
     <ClCompile Include="초심자의 회문 검사_1989.cpp">
       <Filter>SWEA\D2</Filter>
     </ClCompile>
+    <ClCompile Include="간단한 369게임_1926.cpp">
+      <Filter>SWEA\D2</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
