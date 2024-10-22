@@ -7,10 +7,9 @@ int main() {
     float a = 0.f;
 
     cin >> a;
-    a += 1.5f;
-
-    cout.precision(3);
-    cout << a;
+    cout << fixed;
+    cout.precision(2);
+    cout << a + 1.5f;
 
     return 0;
 }
