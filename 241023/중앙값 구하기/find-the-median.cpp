@@ -27,7 +27,7 @@ int main() {
         }
         else
         {
-            cout << c;
+            cout << b;
         }
     }
     return 0;
