@@ -14,9 +14,13 @@ int main() {
         {
             cout << b;
         }
-        else
+        else if(c < b)
         {
             cout << c;
+        }
+        else if(c < a)
+        {
+            cout << a;
         }
     }
     else
@@ -25,9 +29,13 @@ int main() {
         {
             cout << a;
         }
-        else
+        else if(c < a && b > c)
         {
             cout << b;
+        }
+        else if(c < a && c < b)
+        {
+            cout << c;
         }
     }
     return 0;
