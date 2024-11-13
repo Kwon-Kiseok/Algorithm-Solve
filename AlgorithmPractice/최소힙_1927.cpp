@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// https://www.acmicpc.net/problem/1927
+
 int main()
 {
 	int N = 0;
@@ -17,7 +19,7 @@ int main()
 	for (int i = 0; i < N; i++)
 	{
 		cin >> x;
-		
+
 		if (x == 0)
 		{
 			if (!pq.empty())
