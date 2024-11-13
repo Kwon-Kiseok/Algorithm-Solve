@@ -19,6 +19,9 @@
     <Filter Include="SWEA\D2">
       <UniqueIdentifier>{8610220f-1065-4927-8416-a3cdae997028}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Baekjoon">
+      <UniqueIdentifier>{e3c165e5-2770-4d44-850b-4b9208737487}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -29,6 +32,9 @@
     </ClCompile>
     <ClCompile Include="간단한 369게임_1926.cpp">
       <Filter>SWEA\D2</Filter>
+    </ClCompile>
+    <ClCompile Include="최소힙_1927.cpp">
+      <Filter>Baekjoon</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
